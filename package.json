@@ -4,6 +4,8 @@
   "description": "Retry a function when it's caught by try/catch",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint src/*.js",
+    "prepush": "npm run lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/weltonsanches/retry-on-catch/issues"
   },
-  "homepage": "https://github.com/weltonsanches/retry-on-catch#readme"
+  "homepage": "https://github.com/weltonsanches/retry-on-catch#readme",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.3",
+    "husky": "^6.0.0"
+  }
 }
