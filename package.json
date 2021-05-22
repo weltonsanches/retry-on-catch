@@ -1,0 +1,24 @@
+{
+  "name": "retry-on-catch",
+  "version": "1.0.0",
+  "description": "Retry a function when it's caught by try/catch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weltonsanches/retry-on-catch.git"
+  },
+  "keywords": [
+    "retry",
+    "catch",
+    "try-again"
+  ],
+  "author": "Welton Sanches",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weltonsanches/retry-on-catch/issues"
+  },
+  "homepage": "https://github.com/weltonsanches/retry-on-catch#readme"
+}
