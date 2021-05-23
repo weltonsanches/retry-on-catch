@@ -7,7 +7,7 @@
   <a href="https://github.com/weltonsanches/retry-on-catch/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/weltonsanches/retry-on-catch/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/weltonsanches/retry-on-catch/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/weltonsanches/retry-on-catch" />
   </a>
   <a href="https://twitter.com/weltonsanches" target="_blank">
@@ -46,7 +46,7 @@ Comming soon
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/weltonsanches/retry-on-catch/issues). You can also take a look at the [contributing guide](https://github.com/weltonsanches/retry-on-catch/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/weltonsanches/retry-on-catch/issues). You can also take a look at the [contributing guide](https://github.com/weltonsanches/retry-on-catch/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -55,7 +55,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Welton Sanches](https://github.com/weltonsanches).<br />
-This project is [MIT](https://github.com/weltonsanches/retry-on-catch/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/weltonsanches/retry-on-catch/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
