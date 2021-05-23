@@ -17,7 +17,6 @@
 
 > Retry a function when it's caught by try/catch
 
-### 🏠 [Homepage](https://github.com/weltonsanches/retry-on-catch#readme)
 
 ## Install
 
@@ -28,13 +27,13 @@ npm install retry-on-catch
 ## Usage
 
 ```sh
-WIP
+Comming soon
 ```
 
 ## Run tests
 
 ```sh
-WIP
+Comming soon
 ```
 
 ## Author
