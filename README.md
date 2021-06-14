@@ -48,6 +48,8 @@ Comming soon
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/weltonsanches/retry-on-catch/issues). You can also take a look at the [contributing guide](https://github.com/weltonsanches/retry-on-catch/blob/main/CONTRIBUTING.md).
 
+This project adheres to the Contributor Covenant [code of conduct](https://github.com/weltonsanches/retry-on-catch/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
