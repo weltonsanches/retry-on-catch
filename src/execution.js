@@ -17,7 +17,7 @@ const executeTry = async ({
     if (time >= maxTimes) {
       logInfo(`Max tries limit reached ${message}`);
       logInfo('Error on the last try:', error);
-      if (onError && typeof onError !== 'function') {
+      if (onError && typeof onError === 'function') {
         onError(error);
       }
       return error;
